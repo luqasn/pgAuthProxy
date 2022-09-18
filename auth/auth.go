@@ -5,7 +5,7 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"
-	"github.com/KnifeMaster007/pgAuthProxy/utils"
+	"github.com/luqasn/pgAuthProxy/utils"
 	gocmd "github.com/go-cmd/cmd"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/viper"

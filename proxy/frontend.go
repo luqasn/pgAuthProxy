@@ -3,7 +3,7 @@ package proxy
 import (
 	"errors"
 	"fmt"
-	"github.com/KnifeMaster007/pgAuthProxy/utils"
+	"github.com/luqasn/pgAuthProxy/utils"
 	"github.com/jackc/pgproto3/v2"
 	"github.com/spf13/viper"
 	"io"

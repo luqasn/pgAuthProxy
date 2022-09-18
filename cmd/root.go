@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/KnifeMaster007/pgAuthProxy/proxy"
-	"github.com/KnifeMaster007/pgAuthProxy/utils"
+	"github.com/luqasn/pgAuthProxy/proxy"
+	"github.com/luqasn/pgAuthProxy/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

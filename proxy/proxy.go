@@ -1,8 +1,8 @@
 package proxy
 
 import (
-	"github.com/KnifeMaster007/pgAuthProxy/auth"
-	"github.com/KnifeMaster007/pgAuthProxy/utils"
+	"github.com/luqasn/pgAuthProxy/auth"
+	"github.com/luqasn/pgAuthProxy/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 	"net"

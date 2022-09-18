@@ -1,4 +1,4 @@
-module github.com/KnifeMaster007/pgAuthProxy
+module github.com/luqasn/pgAuthProxy
 
 go 1.14
 

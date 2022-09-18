@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/KnifeMaster007/pgAuthProxy/cmd"
+	"github.com/luqasn/pgAuthProxy/cmd"
 	log "github.com/sirupsen/logrus"
 	"os"
 )
